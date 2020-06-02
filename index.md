@@ -4,7 +4,10 @@ You can use the [editor on GitHub](https://github.com/timohe/tichu/edit/master/i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### There are games in my account that I did not play
+Please write a mail to tichustatistics@gmail.com to let 
+
+### I have an idea how to improve the app
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
