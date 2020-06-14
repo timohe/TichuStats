@@ -3,24 +3,24 @@
 
 ## Questions about the app
 
-### I got a game in my history which I did not play
+#### I got a game in my history which I did not play
 Please swipe left in the history to request a deletion. We will then contact you via email.
 
-### My statistic is not showing the correct value?
+#### My statistic is not showing the correct value?
 Please contact tichustatistics@gmail.com with an explanation and your username, we are haply to look into it.
 
-### What is happening with my data?
+#### What is happening with my data?
 We only have your email address and we only use this to send you necessary emails (e.g. password reset). In the future we also may have some kind of newsletter. We will not pass your email to any third party.
 
 ## About us
 
-### Who is behind Tichustatistics?
+#### Who is behind Tichustatistics?
 Tichustatistics was an idea of Christian Maurer. Design and app by Timo Hegnauer.
 
-### How do you make money?
+#### How do you make money?
 We don't. At the moment we lose money as we have to pay our IT infrastructure. In the future we will try to cover this via donations at bigger tournaments. If you want to contribute directly, please write to  tichustatistics@gmail.com
 
-### Is this app connected to the publisher of Tichu?
+#### Is this app connected to the publisher of Tichu?
 No, we are independent but we have the permission to use the Tichu pictures and name.
 
 ## Suggestions
