@@ -1,4 +1,4 @@
-[editor on GitHub](mailto: tichustatistics@gmail.com) 
+[editor on GitHub](mailto:tichustatistics@gmail.com) 
 
 
 ## Questions about the app
