@@ -1,4 +1,4 @@
-[editor on GitHub](https://github.com/timohe/tichu/edit/master/index.md) 
+[editor on GitHub](mailto: tichustatistics@gmail.com) 
 
 
 ## Questions about the app
