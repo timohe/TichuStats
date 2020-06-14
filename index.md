@@ -18,7 +18,7 @@ TBD
 ## About us
 
 #### Who is behind Tichustatistics?
-Tichustatistics was an idea of Christian Maurer. Design and app by Timo Hegnauer.
+Tichustatistics was an idea of Christian Maurer and Samuel Kernwein. Design and app by Timo Hegnauer.
 
 #### How do you make money?
 We don't. At the moment we lose money as we have to pay our IT infrastructure. In the future we will try to cover this via donations at bigger tournaments. If you want to contribute directly, please write to  [tichustatistics@gmail.com](mailto:tichustatistics@gmail.com) 
