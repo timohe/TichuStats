@@ -1,9 +1,9 @@
 ## About the app
 #### I cannot add other players to my game
-This can have three reasons:
-1) the player you want to add did not register yet → please tell him/her to do so
-2) the player did not put your name on his friend list yet→ please tell him/her to do so in the settings tab (only people you have on your friend list can add you to their games)
-3) the player you want to add has an unfinished (other) game → he/she need to finish/delete this to be able to participate in a new one
+This can have three reasons:    
+1) the player you want to add did not register yet → please tell him/her to do so    
+2) the player did not put your name on his friend list yet→ please tell him/her to do so in the settings tab (only people you have on your friend list can add you to their games)    
+3) the player you want to add has an unfinished (other) game → he/she need to finish/delete this to be able to participate in a new one    
 #### How are the statistics calculated?
 You can tap on the tiles with the value and they will flip, revealing their secret.
 #### How is my rank calculated?
@@ -26,16 +26,13 @@ If you have reason to believe that your statistics show an incorrect value, plea
 #### Who is behind Tichu Stats?
 Tich Stats was an idea of Christian Maurer, design and app were done by Timo Hegnauer. Special thanks to Samuel Kernwein and Dimitrios Stamatelatos for their valuable input!
 #### How do you make money?
-We don't. At the moment we lose money as we have to pay for our IT infrastructure. In the future we will try to cover this via donations at bigger tournaments. If you want to contribute directly, please write to tichustats@gmail.com.
+We don't. At the moment we lose money as we have to pay for our IT infrastructure. In the future we will try to cover this via donations at bigger tournaments. If you want to contribute directly, please write to [tichustats@gmail.com](mailto:tichustats@gmail.com).
 #### What is happening with my personal data?
 Not much, to be honest. We only have your email address and we only use this to send you necessary emails (e.g. password reset). In the future we also may have some kind of newsletter. We will not pass your email to any third party.
 #### Is this app connected to the publisher of Tichu?
 No, we are independent but have the permission to use the Tichu pictures and name.
 ## Suggestions
 #### I have a splendid idea for the app
-Please contact tichustats@gmail.com. We are always happy to receive ideas and feedback. Please keep in mind: The app is developed by one person completely in his free time, so things can take a bit longer.
+Please contact [tichustats@gmail.com](mailto:tichustats@gmail.com). We are always happy to receive ideas and feedback. Please keep in mind: The app is developed by one person completely in his free time, so things can take a bit longer.
 #### Can you also translate this app to…?
-You are a Greek Tichu professional, a Chinese card game veteran or speak another language fluently? We are happy to include other languages in our app! If you want to contribute, please contact tichustats@gmail.com.
-
-
-Please contact [tichustatistics@gmail.com](mailto:tichustatistics@gmail.com)  with an explanation and your 
+You are a Greek Tichu professional, a Chinese card game veteran or speak another language fluently? We are happy to include other languages in our app! If you want to contribute, please contact [tichustats@gmail.com](mailto:tichustats@gmail.com).
