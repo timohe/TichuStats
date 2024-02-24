@@ -1,0 +1,15 @@
+[
+	{
+		"relation": [
+			"delegate_permission/common.handle_all_urls"
+		],
+		"target": {
+			"namespace": "android_app",
+			"package_name": "com.statistics.tichu",
+			"sha256_cert_fingerprints": [
+				"82:3A:6C:E4:CA:D6:AE:39:BB:B5:64:A6:DC:64:EB:6C:6E:18:45:D8:1E:2E:85:51:75:5B:F5:55:8A:14:AC:B2",
+				"BF:0B:E5:0C:C6:B3:0C:50:D5:32:4D:65:A8:D1:76:EF:DA:CE:E0:47:7D:1E:0B:9A:30:9F:C1:C2:1E:FB:19:3E"
+			]
+		}
+	}
+]
